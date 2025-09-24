@@ -1,2 +1,2 @@
 # WeightedGradeCalculator
-Just playing around with a University Weighted Grade Calculator
+Simple tool for computing weighted averages for university courses.
